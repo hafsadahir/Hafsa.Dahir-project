@@ -56,10 +56,7 @@ window.onscroll = () =>  {
 }
 
 
-
-
-
-
+//adding api
 const encodedParams = new URLSearchParams();
 encodedParams.append("appKey", "<REQUIRED>");
 encodedParams.append("consumerSecret", "<REQUIRED>");
@@ -80,3 +77,4 @@ fetch('https://eventfulvolodimir-kudriachenkov1.p.rapidapi.com/getSingleVenue', 
 	.then(response => response.json())
 	.then(response => console.log(response))
 	.catch(err => console.error(err));
+
