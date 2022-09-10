@@ -78,3 +78,4 @@ fetch('https://eventfulvolodimir-kudriachenkov1.p.rapidapi.com/getSingleVenue', 
 	.then(response => response.json())
 	.then(response => console.log(response))
 	.catch(err => console.error(err));
+
