@@ -1,4 +1,5 @@
 db.collection("events").onSnapshot(snapshot => {
+    
     // Handle the latest event
     const newestEvent = snapshot.docChanges()[0].doc.data()
     const id = snapshot.docChanges()[0].doc.id
