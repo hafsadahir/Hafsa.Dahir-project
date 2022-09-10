@@ -59,7 +59,6 @@ window.onscroll = () =>  {
 
 
 
-
 const encodedParams = new URLSearchParams();
 encodedParams.append("appKey", "<REQUIRED>");
 encodedParams.append("consumerSecret", "<REQUIRED>");
