@@ -26,5 +26,5 @@ This will give you access to the website by cloning it to your folder.
 
 LICENCE
 
- MIT Copyright (c) 2022  Hafsa.
+ Copyright (c) 2022  Hafsa.
 
