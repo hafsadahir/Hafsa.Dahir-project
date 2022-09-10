@@ -25,6 +25,7 @@ db.collection("events").onSnapshot(snapshot => {
     db.collection("events")
       .add(event)
       .then(() => {
+        
         // Reset the form values
         ;(form.name.value = ""),
           (form.attendee.value = ""),
