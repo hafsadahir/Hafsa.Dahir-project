@@ -27,6 +27,10 @@ This will give you access to the website by cloning it to your folder.
 view [live]https://hafsadahir.github.io/Hafsa.Dahir-project/
 
 ## License
+This project is under the MIT license
 
-Copyright (c) 2022  Hafsa.
+
+ Copyright (c) 2022  Hafsa.
+
+ 
 
